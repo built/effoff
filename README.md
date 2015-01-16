@@ -7,9 +7,9 @@ Use F-Off to indicate which parts of your app are finished and which parts are s
 #####How to use it
 
 Include in your app immediately after Bootstrap and any Bootstrap theme, like so:
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="css/foff.css">
+    `<link rel="stylesheet" href="css/bootstrap.min.css">`
+    `<link rel="stylesheet" href="css/bootstrap-theme.min.css">`
+    `<link rel="stylesheet" href="css/foff.css">`
 
 
 * Option 1: foff
