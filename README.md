@@ -7,14 +7,14 @@ Use F-Off to indicate which parts of your app are finished and which parts are s
 #####How to use it
 
 Include in your app immediately after Bootstrap and any Bootstrap theme, like so:
-```<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
-	<link rel="stylesheet" href="css/foff.css">
-```
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/foff.css">
 
-1. Option 1: foff
+
+* Option 1: foff
   Apply the foff style to any Bootstrap-styled element to give it the appearance of being mocked up.
-2. Option 2: fugly
+* Option 2: fugly
   Apply the fugly style to any Bootstrap-styled element to give it a screamingly annoying appearance that says "Don't take this seriously."
 
 
