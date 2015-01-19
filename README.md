@@ -1,4 +1,4 @@
-##F-Off, indicate a feature is off/incomplete in your Bootstrap app.
+##EffOff, indicate a feature is off/incomplete in your Bootstrap app.
 
 #####What's going on here?
 This is a set of styles to use with your Bootstrap-based application or website. This is a tool to manage user and stakeholder expectations.
@@ -7,9 +7,11 @@ Use F-Off to indicate which parts of your app are finished and which parts are s
 #####How to use it
 
 Include in your app immediately after Bootstrap and any Bootstrap theme, like so:
-    `<link rel="stylesheet" href="css/bootstrap.min.css">`
-    `<link rel="stylesheet" href="css/bootstrap-theme.min.css">`
-    `<link rel="stylesheet" href="css/foff.css">`
+  ```html
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="css/foff.css">
+  ```
 
 
 * Option 1: foff
